@@ -6,7 +6,7 @@
 
 # Web Scraper Project
 
-An AI-powered browser automation tool that leverages the [browser-use](https://docs.browser-use.com) library to navigate websites, extract data, and perform defined actions based on detailed instructions. This project demonstrates how to use structured commands to automate web interactions—using your resume data as an example input—to search for relevant opportunities on platforms like [ParkerDewey](https://app.parkerdewey.com).
+An AI-powered browser automation tool that leverages the [browser-use](https://docs.browser-use.com) library to navigate websites, extract data, and perform defined actions based on detailed instructions. This project demonstrates how to use structured commands to automate web interactions.
 
 ---
 
